@@ -1,2 +1,0 @@
-# easter egg
-import this

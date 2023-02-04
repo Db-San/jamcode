@@ -1,4 +1,5 @@
-# Python 3.10.6 + WSL2: Ubuntu
+# Python 3.10.6
+# WSL 2: Ubuntu
 
 # Functions
 def display_line_art():
@@ -7,8 +8,8 @@ def display_line_art():
     print("")
     
 # End of functions
-# Main program
 
+# Main program
 # Ask the user for their favorite food and display it
 display_line_art()
 print("AI: What is your favorite food?")
