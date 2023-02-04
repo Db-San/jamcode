@@ -4,7 +4,7 @@ Jamcode is my own personal ambulatory coding playground.
 
 This repository allows for easy sharing of files and learning resources between my machines (WSL 2 and Termux) to ease learning regardless of OS.
 
-# Resources
+## Resources
 
 List of learning materials I personally use:
 
