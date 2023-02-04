@@ -4,6 +4,7 @@ import sys
 # WSL 2: Ubuntu
 
 # https://www.joelonsoftware.com/2005/12/29/test-yourself/
+
 '''
 Never one to hold a grudge, I share those midterm questions with you…
 see if you can do better than I did freshman year.
@@ -15,6 +16,7 @@ sum of squares of a list, for example:
 (sum-of-squares '(1 2 3 4 5))
 should evaluate to 55.
 '''
+
 # Sum of squaresin python
 def add_sum_of_squares(numbers):
     number = sum(int(number)**2 for number in numbers)
