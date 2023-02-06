@@ -1,12 +1,14 @@
 # Jamcode
 
-Jamcode is my own personal ambulatory coding playground.
+Jamcode is my own personal ambulatory coding playground. This repository eases up extra workload of sharing information multiple times.
+From chat clients to acquaintances, and between my personal machines:
 
-This repository allows for easy sharing of files and learning resources between my machines (WSL 2 and Termux) to ease learning regardless of OS.
+## Existing hardware
 
-## Resources
+- WSL 2: Ubuntu
+- Termux
 
-List of learning materials I personally use:
+## Resources I use
 
 - [Python on Windows: WSL 2 + VSCode](https://learn.microsoft.com/en-us/windows/python/)
 
