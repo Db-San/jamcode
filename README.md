@@ -10,7 +10,7 @@ From chat clients to acquaintances, and between my personal machines:
 
 ## Resources I use
 
-- [Python on Windows: WSL 2 + VSCode](https://learn.microsoft.com/en-us/windows/python/)
+- [Set up a WSL development environment](https://learn.microsoft.com/en-us/windows/python/)
 
 - [markdowntutorial.com](https://www.markdowntutorial.com/)
 
