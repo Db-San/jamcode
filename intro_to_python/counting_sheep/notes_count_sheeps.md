@@ -28,7 +28,5 @@ solution.
 ## Useful reading
 
 - ["Don't repeat yourself" (DRY)](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself)
-
 - [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product)
-
 - [Featurecreep](https://en.wikipedia.org/wiki/Feature_creep)
