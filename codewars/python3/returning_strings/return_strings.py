@@ -16,13 +16,5 @@ def greet(name):
     pass
 '''
 
-def greet(name):
-    ''' greets user and ask how are they doing'''
-    # Good Luck (like you need it)
-    
-    # Main code
-    message = (f"Hello, {name} how are you doing today?")
-    return message
-
-names = ["owo", "uwu", "yuwu"]
-greet(names)
+def greet(name: str) -> str:
+    return f"Hello, {name} how are you doing today?"
