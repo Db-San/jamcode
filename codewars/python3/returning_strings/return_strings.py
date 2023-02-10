@@ -1,0 +1,28 @@
+# Python3.10.6
+
+'''
+https://www.codewars.com/kata/55a70521798b14d4750000a4/train/python
+Make a function that will return a greeting statement that uses an
+input; your program should return, 
+
+"Hello, <name> how are you doing today?".
+
+[Make sure you type the exact thing I wrote or the program may not
+execute properly]
+
+Solution
+def greet(name):
+    #Good Luck (like you need it)
+    pass
+'''
+
+def greet(name):
+    ''' greets user and ask how are they doing'''
+    # Good Luck (like you need it)
+    
+    # Main code
+    message = (f"Hello, {name} how are you doing today?")
+    return message
+
+names = ["owo", "uwu", "yuwu"]
+greet(names)
