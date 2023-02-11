@@ -15,7 +15,7 @@ execute properly]
 
 Solution template
 def greet(name):
-    #Good Luck (like you need it)
+    # Good Luck (like you need it)
     pass
 '''
 
