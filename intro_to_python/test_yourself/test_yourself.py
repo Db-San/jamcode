@@ -18,7 +18,7 @@ sum of squares of a list, for example:
 (sum-of-squares '(1 2 3 4 5))
 should evaluate to 55.
 '''
-def add_sum_of_squares(numbers):
+def add_sum_of_squares(numbers: list) -> int:
     return sum(int(number)**2 for number in numbers)
 
 numbers = [1, 2, 3, 4, 5]
@@ -38,12 +38,12 @@ such that, after compiling it, it can be executed as
 % ./a.out could harold eat eight salami elephants
 '''
 
-def display_first_char_args():
-    arguments = list(sys.argv)
-    word = []
-    for argument in arguments:
-        word.append(list(argument))
+def display_first_char_args() -> str:
+    word = list(sys.argv)
+    char = []
+    for words in word:
+        char.append(list(words))
+    
+    return "".join([char[0] for index, char in enumerate(char) if index])
 
-    return "".join([letter for index, letter in enumerate(word) if index])
-
-display_first_char_args()
+print(display_first_char_args())
