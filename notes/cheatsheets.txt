@@ -1,5 +1,0 @@
-pocket_links
-
-https://rufus.ie/en/
-https://peps.python.org/pep-0008/
-https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet

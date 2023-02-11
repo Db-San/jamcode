@@ -1,0 +1,8 @@
+pocket links
+links are added in chronological order
+sorted by date / descending format
+
+links
+https://peps.python.org/pep-0008/
+https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet
+https://rufus.ie/en/
