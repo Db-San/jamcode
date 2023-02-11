@@ -1,17 +1,18 @@
 # WSL2: Ubuntu
 # Python 3.10.6
 
-# Functions
-def display_line_art():
-    print("")
-    print("=0=0=0=0=0=0=0=0=0=0=0=0=0=0=0=0=0=0=0=")
-    print("")
-    
-# Main program
-display_line_art()
-print("AI: What is your favorite food?")
-user_input = input("> ")
+def display_line_art(number: int) -> int:
+    string = "=0"
+    return (string*number+"=")    
 
-display_line_art()
+# Set length of line header
+length = 20
+
+print(display_line_art(length))
+print("AI: What is your favorite food?")
+# user_input = input("> ")
+user_input = "pizza"
+
+print(display_line_art(length))
 print(f"AI: {user_input.title()} is my favorite food too!")
-display_line_art()
+print(display_line_art(length))
