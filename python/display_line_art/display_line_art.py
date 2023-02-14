@@ -1,7 +1,7 @@
 # WSL2: Ubuntu
 # Python 3.10.6
 
-# Scalable line art header
+# Scalable line art header for cli terminal apps
 def display_line_art(number: int) -> str:
     ''' set number to set its length '''
     string = "=0"
