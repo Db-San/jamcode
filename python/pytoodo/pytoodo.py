@@ -1,24 +1,12 @@
 import os
 import platform
 import sys
-import datetime
 
 def clear_screen():
     if platform.system() == "Windows":
         os.system("cls")
     else:
         os.system("clear")
-
-def display_tasks():
-    if not os.path.exists("pytasks.txt") or os.stat("pytasks.txt").st_size == 0:
-        print("You have no tasks for today! Try adding some tasks below.")
-        return
-
-    with open("pytasks.txt", "r") as file:
-        print("Your current tasks:")
-        tasks = file.readlines()
-    for i, task in enumerate(tasks, 1):
-        print(f"{i}. {task.strip()}")
 
 
 def add_task():
