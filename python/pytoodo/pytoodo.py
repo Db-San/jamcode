@@ -1,12 +1,44 @@
 import os
 import platform
 import sys
+import datetime
 
 def clear_screen():
     if platform.system() == "Windows":
         os.system("cls")
     else:
         os.system("clear")
+
+# Scalable line art header for cli terminal apps
+def display_line_art(title_bar_msg: str) -> str:
+    # choose line art [1-4]:
+    art = 4
+    # set header line len
+    number = 20
+    
+    if art == 1:
+        string = f">>" + "-"*number + ">"    
+    elif art == 2:
+        string = f":."*number + ":"
+    elif art == 3:
+        # @-->--->---
+        string = f"@--" + ">---"*number
+    elif art == 4:
+        string = f"-"*number
+    else:
+        string = []
+    return title_bar_msg + "\n" + string
+
+def display_tasks():
+    if not os.path.exists("pytasks.txt") or os.stat("pytasks.txt").st_size == 0:
+        print("You have no tasks for today! Try adding some tasks below.")
+        return
+
+    with open("pytasks.txt", "r") as file:
+        print("Your current tasks:")
+        tasks = file.readlines()
+    for i, task in enumerate(tasks, 1):
+        print(f"{i}. {task.strip()}")
 
 
 def add_task():
@@ -45,17 +77,8 @@ def delete_task():
     print("Task deleted successfully!")
 
 def display_header():
-    ver = "0.1.1"
-    app_ver= f"[Version {ver}]"
-    app_title = "Pytoodo"
-    
-    length = 28
-    header = f"{app_title} | {app_ver}"
-    
-    print(""+"="*length)
-    print(header)
-    print(""+"="*length)
-    
+    print(display_line_art(title_bar_msg="\nPytoodo | Items (3"))
+   
 def display_choices():
         print("\nChoices: ")
         print("[1] - Show all tasks")
