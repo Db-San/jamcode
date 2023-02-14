@@ -1,0 +1,3 @@
+restructur dirs in repo dump
+migrate to .txt
+remove empty dirs
