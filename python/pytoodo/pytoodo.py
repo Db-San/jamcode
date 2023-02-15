@@ -9,25 +9,28 @@ def clear_screen():
     else:
         os.system("clear")
 
-# Scalable line art header for cli terminal apps
 def display_line_art(title_bar_msg: str) -> str:
-    # choose line art [1-4]:
-    art = 4
-    # set header line len
+    # set [1-4]
+    style = 4
+    # len of header
     number = 20
     
-    if art == 1:
+    if style == 1:
+        # >>--------------->
         string = f">>" + "-"*number + ">"    
-    elif art == 2:
+    elif style == 2:
+        # :.:.:.:.:.:.:.:.:.:.:
         string = f":."*number + ":"
-    elif art == 3:
-        # @-->--->---
-        string = f"@--" + ">---"*number
-    elif art == 4:
+    elif style == 3:
+        # @-->--->--->--->--->--->--->--->--->--->--->
+        string = f"@--" + ">---"*number + ">"
+    elif style == 4:
+        # ----------------------
         string = f"-"*number
     else:
         string = []
-    return title_bar_msg + "\n" + string
+    string = title_bar_msg + "\n" + string
+    return string
 
 def display_tasks():
     if not os.path.exists("pytasks.txt") or os.stat("pytasks.txt").st_size == 0:
@@ -77,7 +80,7 @@ def delete_task():
     print("Task deleted successfully!")
 
 def display_header():
-    print(display_line_art(title_bar_msg="\nPytoodo | Items (3"))
+    print(display_line_art("owo"))
    
 def display_choices():
         print("\nChoices: ")
@@ -86,12 +89,14 @@ def display_choices():
         print("[3] - Delete task")
         print("[q] - Quit")
 
-def main():
-    display_header()
-    while True:
+def dislay_main_menu():
         clear_screen()
         display_header()    
         display_tasks()
+        
+def main():
+    while True:
+        dislay_main_menu()
         display_choices()
         choice = input("Enter your choice [1-3, q(uit)]\n> ")
         
