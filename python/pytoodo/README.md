@@ -1,17 +1,17 @@
-# Pytoodo
+# pytoodo
 
-A Todo List CLI application written in Python.
+pytoodo is a Todo List CLI application written in Python.
 It allows users to manage their daily tasks and
 keep track of their progress in a terminal window.
-This terminal CLI app is inspired by the **Study Together** discord server.
+This terminal CLI app is inspired by the [**Study Together**](https://discord.gg/study) discord server.
 
 ## Features
 
 - **Stay on track!** Add tasks as needed. Delete tasks when you're done.
-- Persistent data **in-between** sessions! The app can remember past sessions and can show past tasks.
-- It just works and **respects your privacy**.
-- **This CLI app** does not sshare data to 3rd-party companies. All user data stays on your device.
-- **Free and Open Source** As it should be.
+- Your tasks are persistent **in-between** sessions! The app can remember past tasks even after you closed it!
+- It **just works** and **respects your privacy**.
+- **This CLI app** does not share data to 3rd-party companies. All user data-stays on your device.
+- **Free and Open Source**. As it should be.
 
 ## Requirements
 
@@ -19,31 +19,25 @@ This terminal CLI app is inspired by the **Study Together** discord server.
 
 ## Installation
 
-To run/install Pytoodo, follow these steps:
+```console
+# clone the repo
+$ git clone https://github.com/sherlock-project/sherlock.git
 
-1. Download the 
-Change into the directory of the cloned repository:
-shell
-Copy code
-$ cd todo-list-cli
-Run the following command to install the required packages:
-ruby
-Copy code
-$ pip install -r requirements.txt
-Usage
-To run the Todo List CLI application, use the following command:
+# change the working directory to sherlock
+$ cd sherlock
 
-ruby
-Copy code
-$ python todo.py
-Features
-Add a task to the Todo List
-Mark a task as complete
-View all tasks
-Remove a task
-Quit the application
-Contributing
-Contributions are always welcome! If you have any suggestions or find any bugs, please open an issue on the GitHub repository.
+# install the requirements
+$ python3 -m pip install -r requirements.txt
+```
 
-License
-This project is licensed under the MIT License.
+## Usage
+
+```console
+$ python3 pytoodo.py
+pytoodo / your tasks (4)
+-------------------------
+1. water the plants (living room)
+2. pay karl a visit at the bulding (2F, Unit 3)
+3. dispose the garbage bin before going out
+4. get ready for church (0430H)
+```
