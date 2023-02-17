@@ -1,5 +1,5 @@
 bookmarks
-sorted by date in descending order
+sorted by date first used, in descending order
 
 https://peps.python.org/pep-0008/
 https://www.theodinproject.com/lessons/foundations-git-basics#cheatsheet
