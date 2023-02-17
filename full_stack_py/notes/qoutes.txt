@@ -1,6 +1,7 @@
-1 / https://www.fullstackpython.com/learning-programming.htmlcov
-    1. aspects of programming language understood (type systems, syntax)
-    2. number of data structures coded and able to be used (stacks, queues)
-    3. algorithms in a developer's toolbelt (quicksort, binary search)
+1 
+https://www.fullstackpython.com/learning-programming.html
 
-    
+Ctrl + F
+    The atomic units of progress in the "low-level first" method of learning are
+    Practice problems
+    First-hand advice
