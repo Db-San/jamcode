@@ -15,4 +15,4 @@ From chat clients to acquaintances, and between my personal machines:
 - [Introduction to Python](http://introtopython.org)
 - [The Odin Project](https://www.theodinproject.com/)
 - [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com)
-= [Django Girls Foundation](https://djangogirls.org/en/)
+- [Django Girls Foundation](https://djangogirls.org/en/)
