@@ -1,7 +1,0 @@
-1 
-https://www.fullstackpython.com/learning-programming.html
-
-Ctrl + F
-    The atomic units of progress in the "low-level first" method of learning are
-    Practice problems
-    First-hand advice

@@ -1,0 +1,12 @@
+Full Stack Python
+https://www.fullstackpython.com/table-of-contents.html
+
+Introduction
+https://www.fullstackpython.com/
+
+Learning programming
+https://www.fullstackpython.com/learning-programming.html
+The atomic units of progress in the "low-level first" method of learning are
+Practice problems
+First-hand advice
+

@@ -1,6 +1,0 @@
-Full Stack Python
-https://www.fullstackpython.com/table-of-contents.html
-
-Introduction
-https://www.fullstackpython.com/
-
