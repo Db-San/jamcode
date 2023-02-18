@@ -1,8 +1,6 @@
 Full Stack Python
 https://www.fullstackpython.com/table-of-contents.html
 
-Progress bookmark
-
 Introduction
 https://www.fullstackpython.com/
 
