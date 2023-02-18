@@ -1,12 +1,20 @@
 Full Stack Python
-https://www.fullstackpython.com/table-of-contents.html
-
-Introduction
 https://www.fullstackpython.com/
 
-Learning programming
-https://www.fullstackpython.com/learning-programming.html
-The atomic units of progress in the "low-level first" method of learning are
-Practice problems
-First-hand advice
+WSL2
+https://learn.microsoft.com/en-us/windows/dev-environment/
 
+Markdown
+https://www.markdowntutorial.com/
+
+Introduction to Python
+http://introtopython.org
+
+The Odin Project]
+https://www.theodinproject.com
+
+fullstackpython.com
+https://github.com/mattmakai/fullstackpython.com)
+
+Django Girls Tutorial
+https://tutorial.djangogirls.org/en/
