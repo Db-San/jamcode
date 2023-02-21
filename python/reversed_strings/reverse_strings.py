@@ -36,6 +36,5 @@ def solution(string):
     for char in reversed(str(string)):
         word += char
     return word
-    
-print(solution("world"))
-print(solution("word"))
+
+print((solution("world")))
