@@ -5,7 +5,7 @@ From chat clients to acquaintances, and between my personal machines:
 
 ## Existing hardware
 
-- WSL 2: Ubuntu
+- WSL: Ubuntu
 - Termux
 
 ## Resources I use
