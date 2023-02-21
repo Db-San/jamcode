@@ -5,8 +5,8 @@ From chat clients to acquaintances, and between my personal machines:
 
 ## Existing hardware
 
-- WSL: Ubuntu
-- Termux
+- Windows 11 PC
+- Termux running on A12
 
 ## Resources I use
 
