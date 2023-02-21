@@ -1,7 +1,7 @@
 # Jamcode
 
 Jamcode is my own personal ambulatory coding playground. This repository eases up extra workload of sharing information multiple times.
-From chat clients to acquaintances, and between my personal machines:
+From chat clients to acquaintances, and between my personal machines.
 
 ## Existing hardware
 
