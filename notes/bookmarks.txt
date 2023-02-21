@@ -1,9 +1,6 @@
 Full Stack Python
 https://www.fullstackpython.com/
 
-WSL2
-https://learn.microsoft.com/en-us/windows/dev-environment/
-
 Markdown
 https://www.markdowntutorial.com/
 
@@ -14,10 +11,4 @@ The Odin Project]
 https://www.theodinproject.com
 
 fullstackpython.com
-https://github.com/mattmakai/fullstackpython.com)
-
-Django Girls Tutorial
-https://tutorial.djangogirls.org/en/
-
-Launch current html page
-HTML Play: Ctrl + Alt + H
+https://github.com/mattmakai/fullstackpython.com
