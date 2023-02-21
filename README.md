@@ -10,9 +10,6 @@ From chat clients to acquaintances, and between my personal machines:
 
 ## Resources I use
 
-- [Set up a WSL development environment](https://learn.microsoft.com/en-us/windows/dev-environment/)
-- [markdowntutorial.com](https://www.markdowntutorial.com/)
 - [Introduction to Python](http://introtopython.org)
 - [The Odin Project](https://www.theodinproject.com/)
 - [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com)
-- [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
