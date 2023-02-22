@@ -11,5 +11,7 @@ From chat clients to acquaintances, and between my personal machines.
 ## Resources I use
 
 - [Introduction to Python](http://introtopython.org)
-- [The Odin Project](https://www.theodinproject.com/)
+- [The Odin Project (TOP)](https://www.theodinproject.com/)
 - [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com)
+- [Setting Up Git (TOP)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
+- [Codewars](https://www.codewars.com/dashboard)
