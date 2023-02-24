@@ -5,13 +5,12 @@ From chat clients to acquaintances, and between my personal machines.
 
 ## Existing hardware
 
-- Windows 11 PC
-- Termux running on A12
+- Windows 11
+- Termux
 
 ## Resources I use
 
 - [Introduction to Python](http://introtopython.org)
 - [The Odin Project (TOP)](https://www.theodinproject.com/)
-- [fullstackpython.com](https://github.com/mattmakai/fullstackpython.com)
 - [Setting Up Git (TOP)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 - [Codewars](https://www.codewars.com/dashboard)
