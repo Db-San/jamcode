@@ -1,9 +1,6 @@
 Links
-
 https://rufus.ie/en/
 https://github.com/pbatard/rufus
-
-Content
 
 Donations
 Since I'm getting asked about this on regular basis, there is

@@ -1,14 +1,8 @@
-Full Stack Python
-https://www.fullstackpython.com/
-
 Markdown
 https://www.markdowntutorial.com/
 
 Introduction to Python
 http://introtopython.org
 
-The Odin Project]
+The Odin Project
 https://www.theodinproject.com
-
-fullstackpython.com
-https://github.com/mattmakai/fullstackpython.com
