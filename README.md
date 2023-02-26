@@ -14,4 +14,4 @@ From chat clients to acquaintances, and between my personal machines.
 - [The Odin Project / TOP](https://www.theodinproject.com/)
 - [Setting Up Git (TOP)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 - [Codewars](https://www.codewars.com/dashboard)
-= [Write good commit messages](https://cbea.ms/git-commit)
+- [Write good commit messages](https://cbea.ms/git-commit)
