@@ -30,11 +30,11 @@ def basic_tests():
 '''
 
 def solution(string):
-    # return string[::-1]
+    return string[::-1]
     # return ''.join(char for char in reversed(string))
-    word = ""
-    for char in reversed(str(string)):
-        word += char
-    return word
+    # word = ""
+    # for char in reversed(str(string)):
+    #     word += char
+    # return word
 
 print((solution("world")))
