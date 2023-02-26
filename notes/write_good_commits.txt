@@ -1,0 +1,20 @@
+How to write good commit messages
+
+Using VSCode as your text editor
+    (you should have set this up in the Git Basics section)
+    will allow you to easily make multi-line commit messages,
+    easily see the character length of each line,
+    and will allow you to use VSCode spell
+    check extensions to make sure your
+    spelling is correct
+
+Use an active voice: 
+    “Fix card generator”
+Avoid using vague commit messages such as
+    “saved”
+    or “updated”
+    as well as "upload"
+
+Commit early and often!
+
+Victory costs, every time..., I pay a little more...
