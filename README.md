@@ -15,3 +15,4 @@ From chat clients to acquaintances, and between my personal machines.
 - [Setting Up Git (TOP)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 - [Write good commit messages](https://cbea.ms/git-commit)
 - [Why Blockchain?](https://survey.stackoverflow.co/2022/#salary-canada)
+- [Awesome Blockchain Courses with Free Credentials](https://www.reddit.com/r/CryptoCurrency/comments/n5jz6w/want_to_become_a_crypto_developer_here_is_a_list/)
