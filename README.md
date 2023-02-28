@@ -8,7 +8,7 @@ From chat clients to acquaintances, and between my personal machines.
 - Windows 11
 - Termux
 
-## Resources I use
+## Fundamentals
 
 - [Introduction to Python](http://introtopython.org/hello_world.html)
 - [The Odin Project](https://www.theodinproject.com/dashboard)
