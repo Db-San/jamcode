@@ -11,7 +11,7 @@ From chat clients to acquaintances, and between my personal machines.
 ## Fundamentals
 
 - [Introduction to Python](http://introtopython.org/hello_world.html)
-- [The Odin Project](https://www.theodinproject.com/dashboard)
+- [The Odin Project](https://www.theodinproject.com/dashboard) ⭐
 - [Setting Up Git (TOP)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 - [Write good commit messages](https://cbea.ms/git-commit)
 
