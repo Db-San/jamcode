@@ -10,8 +10,8 @@ From chat clients to acquaintances, and between my personal machines.
 
 ## Resources I use
 
-- [Introduction to Python](http://introtopython.org)
-- [The Odin Project](https://www.theodinproject.com/)
+- [Introduction to Python](http://introtopython.org/hello_world.html)
+- [The Odin Project](https://www.theodinproject.com/dashboard)
 - [Setting Up Git (TOP)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 - [Write good commit messages](https://cbea.ms/git-commit)
 
