@@ -27,4 +27,6 @@ From chat clients to acquaintances, and between my personal machines.
 
 ## Continue Learning Hotlink
 
+### The Odin Project
+
 - [CSS Foundations](https://www.theodinproject.com/lessons/foundations-css-foundations)
