@@ -25,6 +25,6 @@ From chat clients to acquaintances, and between my personal machines.
 - [Awesome Blockchain Courses with Free Credentials](https://www.reddit.com/r/CryptoCurrency/comments/n5jz6w/want_to_become_a_crypto_developer_here_is_a_list/)
 - [Blockchain Development - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development/)
 
-## Repository Hotlink
+## Continue Learning Hotlink
 
-- [Continue Learning - TOP Recipes](https://github.com/Db-San/odin-recipes)
+- [CSS Foundations](https://www.theodinproject.com/lessons/foundations-css-foundations)
