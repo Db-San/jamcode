@@ -25,6 +25,6 @@ From chat clients to acquaintances, and between my personal machines.
 - [Awesome Blockchain Courses with Free Credentials](https://www.reddit.com/r/CryptoCurrency/comments/n5jz6w/want_to_become_a_crypto_developer_here_is_a_list/)
 - [Blockchain Development - Microsoft Learn](https://learn.microsoft.com/en-us/training/paths/ethereum-blockchain-development/)
 
-## Continue Learning Hotlink
+## Quickjoin Hotlink
 
 - [Box model (TOP)](https://www.theodinproject.com/lessons/foundations-the-box-model)
