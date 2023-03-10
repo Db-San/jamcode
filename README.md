@@ -10,6 +10,7 @@ From chat clients to acquaintances, and between my personal machines.
 
 ## Fundamentals
 
+- [Set up your development environment on Windows](https://learn.microsoft.com/en-us/windows/dev-environment/)
 - [Introduction to Python](http://introtopython.org/hello_world.html)
 - [Setting Up Git (TOP)](https://www.theodinproject.com/lessons/foundations-setting-up-git)
 - [Write good commit messages](https://cbea.ms/git-commit)
