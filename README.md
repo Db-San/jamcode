@@ -27,4 +27,4 @@ From chat clients to acquaintances, and between my personal machines.
 
 ## Quickjoin Hotlink
 
-- [Box model - Assignmet [TOP]](https://www.theodinproject.com/lessons/foundations-the-box-model#assignment)
+- [Box model - Assignment [TOP]](https://www.theodinproject.com/lessons/foundations-the-box-model#assignment)
